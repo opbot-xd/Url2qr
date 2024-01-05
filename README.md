@@ -1,0 +1,1 @@
+Its a extension used to make urls to qrcode and then also download them. Unpack the code folder to you chrome extension to use it. Its not available on chrome store as it is exclusive to github. Peace. 
